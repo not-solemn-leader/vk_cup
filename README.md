@@ -1,3 +1,4 @@
 # vk_cup
-### My solution to vk cup ML section
-![](https://sun5-4.userapi.com/sPhWE4DX6rac6r70_Z7zIr6EVjA1OxFfb7xDoA/ZhQyJ3stVg8.jpg)
+My solution for vk cup ML section where I obtained 4th and jth place
+### Qualifying stage
+![](https://sun9-20.userapi.com/c857024/v857024599/134c5b/6Wog2F91SyM.jpg)
